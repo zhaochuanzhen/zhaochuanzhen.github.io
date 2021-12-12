@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://github.com/zhaochuanzhen/2021/12/01/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</loc>
+    <loc>http://example.com/2021/12/01/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</loc>
     
     <lastmod>2021-12-12</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://github.com/zhaochuanzhen/2021/12/02/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A02/</loc>
+    <loc>http://example.com/2021/12/02/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A02/</loc>
     
     <lastmod>2021-12-12</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://github.com/zhaochuanzhen/2021/12/01/hello-world/</loc>
+    <loc>http://example.com/2021/12/01/hello-world/</loc>
     
     <lastmod>2021-12-01</lastmod>
     
@@ -30,7 +30,7 @@
   
 
   <url>
-    <loc>https://github.com/zhaochuanzhen</loc>
+    <loc>http://example.com/</loc>
     <lastmod>2021-12-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -38,7 +38,7 @@
 
   
   <url>
-    <loc>https://github.com/zhaochuanzhen/tags/spring/</loc>
+    <loc>http://example.com/tags/spring/</loc>
     <lastmod>2021-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

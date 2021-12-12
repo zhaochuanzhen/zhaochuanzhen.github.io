@@ -3,11 +3,11 @@
   <title>zhaochuanzhen</title>
   
   <subtitle>赵传真</subtitle>
-  <link href="https://github.com/zhaochuanzhen/atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="https://github.com/zhaochuanzhen/"/>
+  <link href="http://example.com/"/>
   <updated>2021-12-12T08:47:12.890Z</updated>
-  <id>https://github.com/zhaochuanzhen/</id>
+  <id>http://example.com/</id>
   
   <author>
     <name>赵传真</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>测试文章2</title>
-    <link href="https://github.com/zhaochuanzhen/2021/12/02/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A02/"/>
-    <id>https://github.com/zhaochuanzhen/2021/12/02/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A02/</id>
+    <link href="http://example.com/2021/12/02/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A02/"/>
+    <id>http://example.com/2021/12/02/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A02/</id>
     <published>2021-12-02T01:58:09.000Z</published>
     <updated>2021-12-12T08:47:12.890Z</updated>
     
@@ -34,14 +34,14 @@
     
     
     
-    <category term="spring" scheme="https://github.com/zhaochuanzhen/tags/spring/"/>
+    <category term="spring" scheme="http://example.com/tags/spring/"/>
     
   </entry>
   
   <entry>
     <title>Spring--初始化和销毁方法</title>
-    <link href="https://github.com/zhaochuanzhen/2021/12/01/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
-    <id>https://github.com/zhaochuanzhen/2021/12/01/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</id>
+    <link href="http://example.com/2021/12/01/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+    <id>http://example.com/2021/12/01/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</id>
     <published>2021-12-01T03:12:43.000Z</published>
     <updated>2021-12-12T08:53:18.700Z</updated>
     
@@ -56,14 +56,14 @@
     
     
     
-    <category term="spring" scheme="https://github.com/zhaochuanzhen/tags/spring/"/>
+    <category term="spring" scheme="http://example.com/tags/spring/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/zhaochuanzhen/2021/12/01/hello-world/"/>
-    <id>https://github.com/zhaochuanzhen/2021/12/01/hello-world/</id>
+    <link href="http://example.com/2021/12/01/hello-world/"/>
+    <id>http://example.com/2021/12/01/hello-world/</id>
     <published>2021-12-01T02:57:23.031Z</published>
     <updated>2021-12-01T02:57:23.031Z</updated>
     
